@@ -1,0 +1,10 @@
+Variable: es un elemento que se se va a definir para poder usar en el futuro. Al declarar una variable estamos diciendo a Java Script que este elemento existe, por ejemplo, si declaramos la variable Estudiante, le decimos a JavaScript que la palabra estudiante debe guardarse para usarse en el futuro y que existe y le podemos asignar un valor.
+
+String: es una cadena de caracteres, es decir uno o más caracteres (letras o números) que se ponen entre comillas.
+
+Funciones (argumentos, return): Una función es un extracto de código que podemos usar en el futuro. Nos puede evitar escribir código para acciones que se repiten. Por ejemplo, si quieres decir la edad de 30 estudiantes es más fácil hacer una función de edad y solo cambiar el valor númerico, en lugar de escribir "tengo ... años" 30 veces. Los argumentos son las variables que quieres que se usen en la función, por ejemplo, si haces una función de saludo, puedes tener los datos de edad y nombre que se van a insertar. El saludo podría ser "hola mi nombre es ... y tengo ... años", la edad y el nombre son los argumentos de esta función. 
+Return significa retornar. Se usa cuando se quiere que la consola retorne lo que se pide; puede ser con una asignación de un valor o con una función. Por ejemplo si se quiere que la consola retorne el valor Toni a la variable de nombre, se pone return y  de esa manera va a regresar ese valor. También puede usarse con funciones. 
+
+Declaraciones if: son elementos que se integran para que regrese un resultado si se cumple con determinada condición. Normalmente se usa con else, para decir que si pasa algo devuelva un output y si pasa otra cosa devuelva un output diferente. 
+
+Valores booleanos: son aquellos que se puede decir que son verdaderos o falsos, por ejemplo decir que 2 es menor que 4 es verdadero y decir que 4 es menor que 2 es falso.
